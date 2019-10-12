@@ -8,6 +8,7 @@ package com.atguigu;
 public class Apple {
 
     private String appName = "bad apple";
+    private String appSize = "25";
 
     public String getAppName() {
         return appName;
