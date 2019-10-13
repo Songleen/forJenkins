@@ -12,5 +12,6 @@
 </head>
 <body>
     <%=new Apple().getAppName() %>
+    <%= new Apple().getAppName() %>
 </body>
 </html>
